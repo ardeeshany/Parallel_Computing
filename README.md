@@ -1,5 +1,5 @@
 # Parallel_Computing
 A CheatSheet for Parallel Computation in R 
 
-![](parallel_computing.jpeg?raw=true)
+![](https://github.com/ardeeshany/Parallel_Computing/blob/master/parallel_computation.001.jpeg?raw=true)
 
