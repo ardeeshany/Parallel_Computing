@@ -1,5 +1,8 @@
 # Parallel_Computing
 A CheatSheet for Parallel Computation in R 
 
-<img src="parallel_computation.pdf" alt="some text"  width="4200" height="4200">
+
+<a href="https://github.com/ardeeshany/Parallel_Computing/blob/master/parallel_computation.001.pdf" download> Download Link </a>
+
+![](https://github.com/ardeeshany/Parallel_Computing/blob/master/parallel_computation.001.jpeg?raw=true)
 
